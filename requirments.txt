@@ -1,0 +1,4 @@
+# GUI Framework and Core Libraries
+tkinter 
+numpy
+matplotlib
